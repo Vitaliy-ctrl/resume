@@ -131,7 +131,7 @@ aside {
 
 .button {
     background: #FFAA01;
-    box-shadow: 0px 4px 15px rgba(255, 170, 1, 0.29);
+    box-shadow: 0 4px 15px rgba(255, 170, 1, 0.29);
     border-radius: 21px;
     display: flex;
     align-items: center;
